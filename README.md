@@ -1,0 +1,2 @@
+# minds
+blog of minds
