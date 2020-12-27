@@ -1,0 +1,5 @@
+# minds
+blog of minds
+archetypes/default.md里模板生成,draft默认为true,需要修改为false,否则为草稿,发布不到静态页面里 用hugo new命令生成的新文章，头部会有draft=true属性，表示为草稿，这样生成静态文件不会把该文章包括进去。要发布的话记得把这个值设置成false或者直接删除
+
+npm install -g postcss-cli
