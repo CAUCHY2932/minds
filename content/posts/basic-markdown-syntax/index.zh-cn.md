@@ -7,9 +7,6 @@ draft: false
 author: "Sunt Programator!"
 authorLink: "https://suntprogramator.dev/"
 description: "这篇文章展示了基本的 Markdown 语法和格式."
-resources:
-  - name: "featured-image"
-    src: "featured-image.png"
 
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]

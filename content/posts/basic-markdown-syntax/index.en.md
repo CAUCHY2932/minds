@@ -7,9 +7,6 @@ draft: false
 author: "Sunt Programator!"
 authorLink: "https://suntprogramator.dev/"
 description: "This article shows the basic Markdown syntax and format."
-resources:
-- name: "featured-image"
-  src: "featured-image.png"
 
 tags: ["Markdown", "HTML"]
 categories: ["Markdown"]
